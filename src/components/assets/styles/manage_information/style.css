@@ -1,0 +1,37 @@
+.btn {
+  padding: 0;
+}
+.edit-icon {
+  color: green;
+}
+.delete-icon {
+  color: red;
+}
+
+.table-wrapper {
+  max-height: 700px;
+  overflow: auto;
+  display: inline-block;
+  width: 100%;
+}
+
+.stu-info {
+  font-size: 25px;
+}
+
+.stu-id {
+  color: red;
+  font-weight: bold;
+}
+
+.forClose {
+  position: relative;
+}
+
+.close-btn {
+  position: absolute;
+  top: 0;
+  right: 0;
+  font-size: 20px;
+  color: gray;
+}

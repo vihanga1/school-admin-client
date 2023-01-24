@@ -1,0 +1,15 @@
+.newStudentForm {
+  width: 50%;
+}
+
+.submitButton {
+  width: 100%;
+  background-color: var(--green);
+}
+
+.form-control:focus {
+  transition: 0.5s;
+  font-weight: 500;
+  color: var(--blue) !important;
+  box-shadow: none;
+}

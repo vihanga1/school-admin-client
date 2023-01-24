@@ -1,0 +1,20 @@
+.seat-availability {
+  border: 10px solid var(--green);
+  background-color: #e5fff4;
+  border-radius: 10px;
+  padding: 14px;
+}
+
+.seat-availability .available-seats {
+  color: red;
+  font-weight: bold;
+}
+
+.recent-student-list {
+  border: 10px solid var(--blue);
+  border-radius: 10px;
+}
+
+td {
+  border: none;
+}

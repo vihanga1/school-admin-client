@@ -1,0 +1,7 @@
+:root {
+  --blue: #1b87e4;
+  --green: #0c935d;
+}
+body {
+  overflow: hidden; /* Hide scrollbars */
+}
