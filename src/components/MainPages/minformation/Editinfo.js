@@ -45,7 +45,7 @@ export default function Editinfo() {
             <div className="col stu-id">{studentData.stu_id}</div>
           </div>
           <div className="row">
-            <div className="col">Full Name :</div>
+            <div className="col">Full Name Hutto:</div>
             <div className="col">
               {studentData.first_name} {studentData.last_name}
             </div>
